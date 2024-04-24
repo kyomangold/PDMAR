@@ -1,8 +1,6 @@
 # Planning and Decision Making for Autonomous Robots
 
-This is the repository for the code files of the **Planning and Decision Making for Autonomous Robots** lecture at the [Institute for Dynamic Systems and Control](https://idsc.ethz.ch) at ETH Zurich taught by Prof. Dr. Emilio Frazzoli. The lecture covered the following topics
-
-To format your topics into a bullet list in markdown, you can organize them as follows:
+This is the repository for the code files of the **Planning and Decision Making for Autonomous Robots** lecture at the [Institute for Dynamic Systems and Control](https://idsc.ethz.ch) at ETH Zurich taught by Prof. Dr. Emilio Frazzoli. The lecture covered the following topics:
 
 - Discrete planning
   - Shortest path problems
